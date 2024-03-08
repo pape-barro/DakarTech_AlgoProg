@@ -20,5 +20,7 @@ I. [RAPPEL ALGORITHMIQUE (30H)]()
   7.  Structures conditionnelles et itératives ;
   8.  Tableaux ;
   9.  Sous programmes ;
+
 II.  [PROGRAMMATION EN C (30H)]
+
 III.  [INITIATION AU C++ (30H)]
