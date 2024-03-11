@@ -11,7 +11,7 @@
 
  # ``` Contenu: ```
 I. RAPPEL ALGORITHMIQUE (30H)
-  1. [Les bases (Objectifs; Préambule; Notion d’algorithme; Types et variables; Lecture et écriture; Operateurs, conditions et expression)](https://github.com/pape-barro/DakarTech_AlgoProg/blob/main/Basiques.pdf) ;
+  1. [Généralités et les bases (Objectifs; Préambule; Notion d’algorithme; Types et variables; Lecture et écriture; Operateurs, conditions et expression)](https://github.com/pape-barro/DakarTech_AlgoProg/blob/main/Basiques.pdf) ;
   8. Structures conditionnelles et itératives ;
   9. Tableaux ;
   10. Sous programmes ;
