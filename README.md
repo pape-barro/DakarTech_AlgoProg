@@ -10,16 +10,12 @@
  * Examen ;
 
  # ``` Contenu: ```
-I. [RAPPEL ALGORITHMIQUE (30H)]()
-  1.  Objectifs ;
-  2.  Préambule ;
-  3.  Notion d’algorithme ;
-  4.  Types et variables ;
-  5.  Lecture et écriture ;
-  6.  Operateurs, conditions et expression ;
-  7.  Structures conditionnelles et itératives ;
-  8.  Tableaux ;
-  9.  Sous programmes ;
+I. RAPPEL ALGORITHMIQUE (30H)
+  1. [Les bases (Objectifs; Préambule; Notion d’algorithme; Types et variables; Lecture et écriture; Operateurs, conditions et expression)](https://github.com/pape-barro/DakarTech_AlgoProg/blob/main/Basiques.pdf) ;
+  8. Structures conditionnelles et itératives ;
+  9. Tableaux ;
+  10. Sous programmes ;
+  11.  ... ;
 
 II.  [PROGRAMMATION EN C (30H)]
 
