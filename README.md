@@ -1,4 +1,4 @@
-# 2023-2024
+# Année scolaire 2023-2024
  * ##  DakarTech  
  * ##  AlgoProg - Algorithmique et Programmation (C/C++)
  
@@ -10,13 +10,13 @@
  * Examen ;
 
  # ``` Contenu: ```
-I. RAPPEL ALGORITHMIQUE (30H)
+I. RAPPEL ALGORITHMIQUE
   1. [`Généralités et les bases`](https://github.com/pape-barro/DakarTech_AlgoProg/blob/main/Basiques.pdf) ;
   8. Structures conditionnelles et itératives ;
   9. Tableaux ;
   10. Sous programmes ;
   11.  ... ;
 
-II.  [PROGRAMMATION EN C (30H)]
+II.  [PROGRAMMATION EN C]
 
-III.  [INITIATION AU C++ (30H)]
+III.  [INITIATION AU C++]
