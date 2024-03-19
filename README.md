@@ -10,13 +10,13 @@
  * Examen ;
 
  # ``` Contenu: ```
-I. RAPPEL ALGORITHMIQUE
+I. ALGORITHMIQUE
   1. [`Généralités et les bases`](https://github.com/pape-barro/DakarTech_AlgoProg/blob/main/Basiques.pdf) ;
   2. [`Structures conditionnelles`](https://github.com/pape-barro/DakarTech_AlgoProg/blob/main/structures_conditionnelles.pdf) ;
   3. Structures itératives ;
   4. Tableaux ;
   5. Sous programmes ;
 
-II.  PROGRAMMATION EN C
+II. PROGRAMMATION EN C
 
 III. INITIATION AU C++
