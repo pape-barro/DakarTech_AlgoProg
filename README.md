@@ -18,5 +18,7 @@ I. ALGORITHMIQUE
   5. [`Sous algorithmes`](https://github.com/pape-barro/DakarTech_AlgoProg/blob/main/sous_algorithmes.pdf) ;
 
 II. PROGRAMMATION EN C
+  1. [`Généralités, Types et Opérateurs`](https://github.com/pape-barro/DakarTech_AlgoProg/blob/main/Generalite.pdf) - ``` 03 Juin 2024 ```;
+  2. [`Variables, Lecture/écriture, Conditions et Expression`] ``` Bientot !```
 
 III. INITIATION AU C++
