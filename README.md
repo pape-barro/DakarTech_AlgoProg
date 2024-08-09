@@ -24,6 +24,11 @@ II. PROGRAMMATION EN C
   4. [`Structures itératives`](https://github.com/pape-barro/DakarTech_AlgoProg/blob/main/structures_iteratives_c.pdf)  ``` 05 et 10 Juillet 2024 ```;
   5. [`Tableaux statique`](https://github.com/pape-barro/DakarTech_AlgoProg/blob/main/tableaux-statiques_c.pdf)  ``` 12 Juillet 2024 ```;
   6. [`Pointeurs et tableaux dynamiques`](https://github.com/pape-barro/DakarTech_AlgoProg/blob/main/pointeurs_et_tableaux_c.pdf)  ``` 19 Juillet 2024 ```;
-  7. [`Sous programmes`]  ``` Bientot !```;
+  7. [`Sous programmes`](https://github.com/pape-barro/DakarTech_AlgoProg/blob/main/sous-programme.pdf)  ``` 09 Aout 2024 ```;
 
 III. INITIATION AU C++
+  1. [`Généralités, Types et Opérateurs`]() ```  ```;
+  2. [`Variables, Lecture/écriture, Conditions et Expression`]() ```  ```;
+  3. [`Structures conditionnelles et Structures itératives`]() ```  ```;
+  4. [`Tableaux statique, Pointeurs et tableaux dynamiques`]() ```  ```;
+  5. [`Sous programmes`]() ```  ```;
