@@ -27,8 +27,8 @@ II. PROGRAMMATION EN C
   7. [`Sous programmes`](https://github.com/pape-barro/DakarTech_AlgoProg/blob/main/sous-programme.pdf)  ``` 09 Aout 2024 ```;
 
 III. INITIATION AU C++
-  1. [`Généralités, Types et Opérateurs`]() ```  ```;
-  2. [`Variables, Lecture/écriture, Conditions et Expression`]() ```  ```;
-  3. [`Structures conditionnelles et Structures itératives`]() ```  ```;
-  4. [`Tableaux statique, Pointeurs et tableaux dynamiques`]() ```  ```;
-  5. [`Sous programmes`]() ```  ```;
+  1. [`Généralités, Types et Opérateurs`] ```  ```;
+  2. [`Variables, Lecture/écriture, Conditions et Expression`] ```  ```;
+  3. [`Structures conditionnelles et Structures itératives`] ```  ```;
+  4. [`Tableaux statique, Pointeurs et tableaux dynamiques`] ```  ```;
+  5. [`Sous programmes`] ```  ```;
